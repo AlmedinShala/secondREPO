@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    border:  1px solid;
+    border-radius: 8px;
+    background: #1B244A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;}
+   
+    
+    body {
+    margin: 0;
+    text-align: center;
+}
+
+.score {
+    border-radius: 5px;
+    background: #0a0001;
+    font-size: 50px;
+    color: #F94F6D;
+    width: 70px;
+    margin: 20px;
+}
+
+
+.containe {
+    display: flex;
+    justify-content: space-around;
+}
+
+    
+
+button {
+    background: none;
+}
+.button1 {
+border-radius: 5px;
+border-color: white;
+text-decoration-color: white;
+color: white;
+    }
+    .button2 {
+       color: white;
+border-radius: 5px;
+border-color: white;
+text-decoration-color: white;
+    }
+    .button3 {
+        color: white;
+border-radius: 5px;
+border-color: white;
+text-decoration-color: white;
+    }
+    .score2 {
+        border-radius: 5px;
+    background:#0a0001;
+    font-size: 50px;
+    color: #F94F6D;
+    width: 70px;
+    margin: 20px;
+}
+.button4 {
+border-radius: 5px;
+border-color: white;
+text-decoration-color: white;
+color: white;
+    }
+    .button5 {
+       color: white;
+border-radius: 5px;
+border-color: white;
+text-decoration-color: white;
+    }
+    .button6 {
+        color: white;
+border-radius: 5px;
+border-color: white;
+text-decoration-color: white; 
+    }
+    
+
+
+    
